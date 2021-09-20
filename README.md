@@ -1,3 +1,5 @@
 # git-practice
 
-This is a repo for practicing git managing skils 
+This is a repo for practicing git managing skils
+
+Awesome thing!
